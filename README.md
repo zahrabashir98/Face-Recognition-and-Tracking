@@ -24,4 +24,7 @@ We add these values ​​to each detection of individuals and the final value i
 
 At each detection, we check that the time between two consecutive detections is assumed to have been dropped if more than 1 minute (gained practically) is assumed.
 
-It is not still finished, wait for the rest of this document :D
+**It is not still finished, wait for the rest of this document :D**
+
+
+Wanna reach our customized dataset with appropriate images and videos? Email zahrabashir77@gmail.com
